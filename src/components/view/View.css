@@ -1,0 +1,16 @@
+.main-view img{
+    height: 50px;
+}
+.main-view{
+    display: -webkit-inline-box;
+    border: 1px solid rgb(24, 16, 16);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+}
+.view{
+    display: flex;
+}
+.view h5{
+    margin-left: 3px;
+}

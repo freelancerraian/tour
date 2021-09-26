@@ -1,0 +1,56 @@
+[
+    {
+        "name":"One",
+        "teacher":"Jamal Ahmed",
+        "captain":"Bayazid",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Capture-one-logo.svg/1200px-Capture-one-logo.svg.png",
+        "passion":"student",
+        "key":"2",
+        "value":"90"
+    },
+    {
+        "name":"Two",
+        "teacher":"Enayet Hosain",
+        "captain":"Rakib",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Circle-two.svg/922px-Circle-two.svg.png",
+        "passion":"student",
+        "key":"3",
+        "value":"120"
+    },
+    {
+        "name":"Three",
+        "teacher":"Rubi Begum",
+        "captain":"Mannaf",
+        "img":"http://www.clker.com/cliparts/L/H/T/b/g/N/three-md.png",
+        "passion":"student",
+        "key":"4",
+        "value":"110"
+    },
+    {
+        "name":"Four",
+        "teacher":"Shihab Talukdar",
+        "captain":"Abdullah",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Eo_circle_blue_number-4.svg/1200px-Eo_circle_blue_number-4.svg.png",
+        "passion":"student",
+        "key":"5",
+        "value":"150"
+    },
+    {
+        "name":"Five",
+        "teacher":"Ayman Sadiq",
+        "captain":"Shihab",
+        "img":"https://speisekarte.menu/storage/media/company_images/1401859/five-is-alive-512x512-1543592280.png",
+        "passion":"student",
+        "key":"6",
+        "value":"170"
+    },
+    {
+        "name":"Six",
+        "teacher":"Jangkar Mahbub",
+        "captain":"Kazi Raian",
+        "img":"https://i0.wp.com/sixsells.co.uk/wp-content/uploads/2021/02/Sixsells-logo-1.jpg?fit=2008%2C2008&ssl=1",
+        "passion":"student",
+        "key":"7",
+        "value":"150"
+    }
+]

@@ -1,0 +1,17 @@
+.header {
+    text-align: center;
+}
+
+.header nav {
+    background: #d0caca;
+    line-height: 50px;
+    text-align: right;
+}
+
+.header nav a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin: 20px;
+    padding: 14px;
+    font-size: 18px;
+}

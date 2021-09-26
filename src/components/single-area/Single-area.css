@@ -1,0 +1,35 @@
+.single-img img{
+    height: 120px;
+    margin: 5px;
+}
+.single{
+    border: 1px solid rgb(41, 30, 30);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.invite-btn{
+    margin-bottom: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: lightgray;
+    font-weight: 500;
+    color: #44439b;
+}
+.single-details p{
+    text-align: left;
+}
+.single-details{
+    padding-left: 10px;
+}
+.name{
+    text-align: center;
+}
+.single-details span{
+    font-weight: bold;
+}
+.icon{
+    font-size: 25px;
+    color: #464acc;
+}
